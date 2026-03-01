@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/cube_to_obj.dir/apps/cube_to_obj.cpp.o -o cube_to_obj 
