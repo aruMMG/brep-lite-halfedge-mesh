@@ -1,5 +1,0 @@
-/home/singh_a_WMGDS.WMG.WARWICK.AC.UK/side_work/half_edge_cpp/build/CMakeFiles/cube_to_obj.dir
-/home/singh_a_WMGDS.WMG.WARWICK.AC.UK/side_work/half_edge_cpp/build/CMakeFiles/test_cube.dir
-/home/singh_a_WMGDS.WMG.WARWICK.AC.UK/side_work/half_edge_cpp/build/CMakeFiles/test.dir
-/home/singh_a_WMGDS.WMG.WARWICK.AC.UK/side_work/half_edge_cpp/build/CMakeFiles/edit_cache.dir
-/home/singh_a_WMGDS.WMG.WARWICK.AC.UK/side_work/half_edge_cpp/build/CMakeFiles/rebuild_cache.dir

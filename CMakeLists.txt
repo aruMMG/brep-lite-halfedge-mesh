@@ -14,5 +14,10 @@ target_link_libraries(cube_to_obj PRIVATE brep_lite)
 add_executable(test_cube tests/test_cube.cpp)
 target_link_libraries(test_cube PRIVATE brep_lite)
 
+
+add_subdirectory(external)
+add_subdirectory(apps)
+
+
 enable_testing()
 add_test(NAME cube_tests COMMAND test_cube)
